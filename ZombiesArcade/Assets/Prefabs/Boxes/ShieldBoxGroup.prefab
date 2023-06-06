@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8073424743029968967
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2614174265628587599}
+  m_Layer: 0
+  m_Name: ShieldBoxGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2614174265628587599
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8073424743029968967}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 440.79, y: 7.09, z: 118.43046}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 3326553061818209240}
+  - {fileID: 6342268874339448985}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &623925154141936042
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2614174265628587599}
+    m_Modifications:
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.23
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.70348936
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.18075241
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.65976185
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.19273223
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 30.573
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -85.731
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 2.174
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285011051419, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_Name
+      value: ShieldBoxDeco (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+--- !u!4 &6342268874339448985 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+  m_PrefabInstance: {fileID: 623925154141936042}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9117160371342471915
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 2614174265628587599}
+    m_Modifications:
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5813271285011051419, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+      propertyPath: m_Name
+      value: ShieldBoxDeco
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+--- !u!4 &3326553061818209240 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 5813271285010751795, guid: 699f6ad6cd5e42d42aab37698e8184e7, type: 3}
+  m_PrefabInstance: {fileID: 9117160371342471915}
+  m_PrefabAsset: {fileID: 0}
