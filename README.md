@@ -1,4 +1,4 @@
-# PEC3 PlatformsGame
+# Zombies Arcade
 
 Un FPS arcade en tercera persona que consiste en matar zombies en un ciclo de día y noche para conseguir la máxima puntuación.
  
