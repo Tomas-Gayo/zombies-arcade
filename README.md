@@ -5,7 +5,7 @@ Un FPS arcade en tercera persona que consiste en matar zombies en un ciclo de d�
 ## Index
 
 - [Cómo jugar](https://github.com/Tomas-Gayo/zombies-arcade/blob/main/README.md#c%C3%B3mo-jugar)
-- [Demo](https://gitlab.com/Tomas-Gayo/pec3-platformsgame#demo)
+- [Demo](https://github.com/Tomas-Gayo/zombies-arcade/blob/main/README.md#demo)
 - [Librerías](https://gitlab.com/Tomas-Gayo/pec3-platformsgame#librer%C3%ADas)
 - [Atribuciones](https://gitlab.com/Tomas-Gayo/pec3-platformsgame#atribuciones)
 
