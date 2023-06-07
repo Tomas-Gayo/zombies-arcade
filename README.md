@@ -15,7 +15,7 @@ Para el movimiento del personaje podemos utilizar las teclas de dirección **WAS
 
 ## Demo
 
-El juego se ha publicado en itch.io, [prueba el juego en su versión Web](https://tomas-gayo.itch.io/zombies-arcade). También podéis ver la demostración del juego en video en Youtube.
+El juego se ha publicado en itch.io, [prueba el juego en su versión Web](https://tomas-gayo.itch.io/zombies-arcade).
 
 ## Librerías
 
